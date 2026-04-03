@@ -1,0 +1,13 @@
+{
+  "name": "medvision-ollama-app",
+  "version": "1.0.0",
+  "description": "MRI dashboard frontend with an Express backend connected to Ollama.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
